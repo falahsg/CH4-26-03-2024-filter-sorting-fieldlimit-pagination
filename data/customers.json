@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "6602d4008cd2b319766c2f1b",
+    "name": "Gayle Luna",
+    "age": 36,
+    "email": "gayleluna@spherix.com",
+    "role": "admin",
+    "active": true,
+    "photo": "user-1.jpg",
+    "password": "",
+    "createdAt": "2021-11-27T12:49:29"
+  },
+  {
+    "_id": "6602d400cd38a1f036834780",
+    "name": "Miranda Noel",
+    "age": 38,
+    "email": "mirandanoel@spherix.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-4.jpg",
+    "password": "",
+    "createdAt": "2022-09-29T07:30:54"
+  },
+  {
+    "_id": "6602d400e5105d1e97dfba34",
+    "name": "Mcfadden Dennis",
+    "age": 21,
+    "email": "mcfaddendennis@spherix.com",
+    "role": "admin",
+    "active": true,
+    "photo": "user-1.jpg",
+    "password": "",
+    "createdAt": "2021-10-17T06:53:07"
+  },
+  {
+    "_id": "6602d400a3cee3ed15787b33",
+    "name": "Pace Short",
+    "age": 40,
+    "email": "paceshort@spherix.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-3.jpg",
+    "password": "",
+    "createdAt": "2021-08-29T06:00:01"
+  },
+  {
+    "_id": "6602d400477985b2eb13d253",
+    "name": "Olsen Dawson",
+    "age": 23,
+    "email": "olsendawson@spherix.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-2.jpg",
+    "password": "",
+    "createdAt": "2018-07-18T04:32:15"
+  }
+]
